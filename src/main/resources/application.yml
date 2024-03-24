@@ -12,7 +12,7 @@ spring:
         url: jdbc:mysql://127.0.0.1:3306/no016_carrent?useUnicode=true&characterEncoding=utf-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2B8
         # 你的账号和密码
         username: root
-        password: 1025
+        password: 123456
 
     servlet:
       multipart:
